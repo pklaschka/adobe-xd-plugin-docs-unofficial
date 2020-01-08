@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typedoc": "^0.15.6"
+    "typedoc": "^0.15.6",
+    "typedoc-plugin-nojekyll": "^1.0.1"
   }
 }
