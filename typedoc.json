@@ -1,0 +1,10 @@
+{
+    "out": "./docs",
+    "excludeExternals": true,
+    "mode": "file",
+    "includeDeclarations": true,
+    "src": ["typings/types"],
+    "hideSources": true,
+    "hideBreadcrumbs": true,
+    "readme": "./README.md"
+}
